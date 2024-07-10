@@ -1,0 +1,30 @@
+h1,
+h2 {
+    background-color: blue;
+    color: lightcoral;
+}
+
+h1{
+    font-size: 72px;
+    background-color: transparent;
+}
+
+h2 {
+    font-size: 36;;
+}
+
+.description{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-weight: bold;
+    color: red;
+    background-color: darkgoldenrod;
+}
+
+.list-defaults {
+    background-color: lightgrey;
+    font-size: large;
+}
